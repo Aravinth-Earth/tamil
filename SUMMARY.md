@@ -15,13 +15,13 @@
 * [எனக்கு தெரிந்த ஒருவர் பாதிக்கப்பட்டுள்ளார்](action/someone-i-know-is-infected.md)
 * [சுய தனிமைப்படுத்தல்](action/home-isolation.md)
 
-## தொடர்புக்கு 
+## தொடர்புக்கு
 
-* [COVID-19 பரிசோதனை மையங்கள்](contact/centers-to-test-covid.md)
-* [கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்](contact/control-rooms-kerala.md)
-* [உலகளாவிய நிறுவனங்கள்](contact/international-organizations.md)
-* [National Level நிறுவனங்கள்](contact/national-level-organisations.md)
-* [மாநில மற்றும் மாவட்ட அளவிலான நிறுவனங்கள்](contact/state-and-district-level-organizations.md)
+* [COVID-19 பரிசோதனை மையங்கள்](undefined/centers-to-test-covid.md)
+* [கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்](undefined/control-rooms-kerala.md)
+* [உலகளாவிய நிறுவனங்கள்](undefined/international-organizations.md)
+* [National Level நிறுவனங்கள்](undefined/national-level-organisations.md)
+* [மாநில மற்றும் மாவட்ட அளவிலான நிறுவனங்கள்](undefined/state-and-district-level-organizations.md)
 
 ## Protocols To Follow At <a id="protocols"></a>
 
