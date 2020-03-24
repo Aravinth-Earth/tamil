@@ -28,14 +28,14 @@
 * [விமான நிலையம்](protocols/airport.md)
 * [Gatherings, திருமணங்கள், Funerals](protocols/gatherings-weddings-funerals.md)
 
-## Know COVID-19 <a id="know-covid-19-1"></a>
+## COVID-19 -ஐ பற்றி தெரிந்துகொள்ள  <a id="know-covid-19-1"></a>
 
 * [COVID-19 Virus Strain](know-covid-19-1/covid-19-virus-strain.md)
 
 ## Resources
 
 * [Official Resources](resources/official-resources.md)
-* [Statewise list of confirmed cases.](https://www.mohfw.gov.in/)
+* [மாநிலங்கள் வாரியாகா பாதிக்கப்பட்டவர்களின் எண்ணிக்கை](https://www.mohfw.gov.in/)
 * [Effective tool to work remotely during Corona](resources/effective-tool-to-work-remotely-during-corona.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
 * [Sources](resources/sources.md)
