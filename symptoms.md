@@ -1,20 +1,19 @@
 ---
-description: Describes the major symptoms of COVID-19.
+விளக்கம்: COVID-19 -இன் முக்கியமான அறிகுறிகள்.
 ---
 
 # அறிகுறிகள்
 
-The most common symptoms of COVID-19 are fever, tiredness, and dry cough. They are usually mild and begin gradually. They appear around [2 - 14 days](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) with average symptoms showing up after 5 days of being infected.
+காய்ச்சல், சோர்வு மற்றும் வறட்டு இருமல் ஆகியன COVID-19 இன் பொதுவான அறிகுறிகளாகும். இவை ஆரம்பத்தில் மிதமாக தொடங்கி படிப்படியாக கூடும். [2 - 14 நாட்களுக்குள்ளாக](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) அறிகுறிகள் தெரிய ஆரம்பிக்கும் சராசரியாக வைரஸ் பாதிப்பு உண்டாகி 5 நாட்களுக்குப்பிறகு இவை தென்படும்.
 
-Some symptoms appear less common than others. The major symptoms of COVID-19 based on how [common](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) it appears in the reported cases are
+சில அறிகுறிகள் எல்லோருக்கும் தென்படுவதில்லை. பாதிக்கப்பட்டவர்களில் [பெரும்பாலானோருக்கு தென்பட்ட அறிகுறிகள்](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19), COVID-19 இன் பொதுவான அறிகுறிகளென கீழே கொடுக்கப்பட்டுள்ளன,
 
-* Fever 
-* Dry Cough 
-* Fatigue 
-* Sputum Production 
-* Shortness of Breath 
-* Muscle Pain or Joint Pain
-* Sore Throat 
+* காய்ச்சல்  
+* வறட்டு இருமல்
+* சோர்வு 
+* மார்பு சளி  
+* மூச்சு விடுவதில் சிரமம் 
+* தசை வலி அல்லது மூட்டு வலி
+* தொண்டை வலி
 
-Most of the symptoms overlap with those of flu and common cold. COVID-19 [rarely produces a runny nose.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
-
+பெரும்பாலான அறிகுறிகள் காய்ச்சல் மற்றும் சளியுடன் ஒதுப்போகின்றன. அரிதாக COVID-19 [மூக்கு ஒழுகுதலை உண்டாக்கும்.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
