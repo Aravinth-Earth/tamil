@@ -1,12 +1,12 @@
 ---
-description: >-
+விளக்கம்: >-
   This page contains the contact information for the State-operated Control
   Rooms in each district.
 ---
 
 # கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்
 
-Given below are the publicly available [contact details](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) of the control rooms at the forefront of containing the virus. Contact the nearest one for any assistance regarding COVID-19 assistance.
+Given below are the publicly available [contact details](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) of the control rooms at the forefront of containing the வைரஸ். Contact the nearest one for any assistance regarding COVID-19 assistance.
 
 | Authority | Phone | Phone | Phone |
 | :--- | ---: | ---: | ---: |

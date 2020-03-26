@@ -1,5 +1,5 @@
 ---
-description: >-
+விளக்கம் :>-
   Home isolation measures for people with confirmed or suspected COVID-19 who do
   not need to be hospitalized and people who were hospitalized and then
   determined to be medically stable to go home.
@@ -7,30 +7,24 @@ description: >-
 
 # சுய தனிமைப்படுத்தல்
 
-You should follow the prevention steps below until a healthcare provider or local or state health department says you can return to your normal activities.
+healthcare provider அல்லது ஊரக(உள்ளூர்) அல்லது மாநில சுகாதார மையம், நீங்கள் உங்களது தினசரி நடவடிக்கைகளுக்கு திரும்பலாம் என கூறும் வரை பினவரும் தடுப்பு நடவடிக்கைகளை பின்பற்றவேண்டும்.
 
-* Well ventilated non AC room
-* Windows kept open during day time
-* Room should have attached bathroom or separate bathroom for the suspected patient.
-* Do not share utensils, linen or other items.
-* Practice frequent handwashing with soap and water especially after toilet or
-
-  contact with body fluids.
-
-* Follow personal hygiene
-* Follow respiratory hygiene
-  * Cover mouth and nose with mask or tissue while coughing or sneezing
-  * If mask or tissue is not available cough or sneeze to your flexed elbow followed by
-
-    hand hygiene
-* Three buckets for waste collection
-  1. soiled linen, clothes, towel – disinfect with bleach, wash and sun dry before next use
-  2. soiled mask, tissues, pad – for incineration
-  3. for bio medical waste - for burial
-* Room should be mopped with bleach solution
+* நல்ல காற்றோட்டமான, குளிர்பதன வசதி செய்யப்படாத தனி அறையில் தங்க வேண்டும்
+* அறையில் பகல் நேரங்களில், அனைத்து சன்னல்களையும் திறந்து வைக்க வேண்டும்
+* நோய் தாக்குதலுக்கான சந்தேகத்திற்குப்பட்டவர், பயன்படுத்துவதற்க்கு அறையுடன் சேர்ந்த அல்லது தனிப்பட்ட கழிப்பிட வசதி இருக்க வேண்டும்
+* பாத்திரங்கள், துணிமணிகள் மற்றும் இதர பொருட்களை அடுத்தவருடன் பகிரக்கூடாது
+* அடிக்கடி மற்றும் கழிப்பிடம் பயன்படுத்திய பின்னர் அல்லது எந்தவொரு உடற்திரவங்களை தொட்டாலும் உடனடியாக சோப்பு அல்லது தண்ணீர் கொண்டு கைகழுவ பழகவேண்டும்
+* சுய ஒழுக்கத்தை பின்பற்ற வேண்டும்
+* சுவாச ஒழுக்கத்தை பின்பற்ற வேண்டும்
+  * இருமும்போதும் தும்மும்போதும் வாய் மற்றும் மூக்காணாது முகமூடி அல்லது கைக்குட்டை வைத்து மூடிக்கொள்ளவேண்டும்
+  * முகமூடி அல்லது கைக்குட்டை இல்லையெனில், வாய் மற்றும் மூக்கை கைகள் கொண்டு மூடிக்கொள்ளவும் மற்றும் உடனடியாக கைகளை சுத்தம் செய்ய வேண்டும்
+* மூன்று தனித்தனி குப்பைத்தொட்டிகள் 
+  1. துணிகள், துண்டு - disinfect with bleach, துவைத்து சூரிய ஒளியில் உலறவைத்து அடுத்தமுறை பயன்படுத்தவும் 
+  2. பயன்படுத்தப்பட்ட முகமூடிகள், tissues, pad - எரித்து சாம்பலாக்கிட
+  3. bio medical waste - புதைத்திட
+* அறையானது bleach solution பயன்படுத்தி தூய்மைப்படுத்தபடவேண்டும் 
 * Bleach solution can be used to clean furniture, wash basin, toilet seats etc
 * Alcohol based hand rub at the room entrance to be used by care giver
-* No visitors should be allowed
-* Should not attend meetings, social gatherings, parties etc
-* Avoid public transport
-
+* பார்வையாளர்களை அனுமதிக்கக்கூடாது  
+* கூட்டங்கள், விழாக்கள், சமுதாய நிகழ்வுகளில் மற்றும் பிற எந்த நிகழ்வுகளிலும் கலந்துகொள்ளக்கூடாது
+* பொது போக்குவரத்தை தவிர்க்கவும்

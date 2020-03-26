@@ -1,5 +1,5 @@
 # Pastoral Care 
-Officials are arguing over whether the novel coronavirus has reached the level of pandemic, as outbreaks continue to spread globally. Meanwhile, religious leaders still must care for people—many of whom are feeling a rise in anxiety verging on panic.
+Officials are arguing over whether the novel கொரொனாவைரஸ் has reached the level of pandemic, as outbreaks continue to spread globally. Meanwhile, religious leaders still must care for people—many of whom are feeling a rise in anxiety verging on panic.
 
 ### How can ministers, chaplains, counselors, and educators accompany people pastorally through this valley of anxiety, fear, and death? Here are 10 brief guidelines.
 

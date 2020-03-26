@@ -1,4 +1,4 @@
-# Effective tool to work remotely during Corona
+# Effective tool to work remotely during கொரொனா
 
 Here are fews tools for remote communications listed below:
 
@@ -36,5 +36,5 @@ Here are fews tools for remote communications listed below:
 
 ## SOURCE
 
-[Corona](https://github.com/AllenAJ/Corona).
+[corona](https://github.com/AllenAJ/corona).
 

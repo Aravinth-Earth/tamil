@@ -1,5 +1,5 @@
 ---
-description: Details of Centers to test for COVID-19 Infection
+விளக்கம்: Details of Centers to test for COVID-19 Infection
 ---
 
 # COVID-19 பரிசோதனை மையங்கள்
@@ -12,7 +12,7 @@ _**A tracheal aspirate:**_ A thin, lighted tube called a bronchoscope is inserte
 
 _**A sputum test:**_ Sputum can be collected either from the nose with a swab or by asking the patient to cough up the mucus.
 
-_**A blood test:**_ Blood sample is drawn and tested in a lab for the virus. This is either done through a blanket test for all variants of the coronavirus \(including regular flu\) or through a specialised gene-sequencing test that locates the marker for the novel coronavirus.
+_**A blood test:**_ Blood sample is drawn and tested in a lab for the வைரஸ். This is either done through a blanket test for all variants of the கொரொனாவைரஸ் \(including regular flu\) or through a specialised gene-sequencing test that locates the marker for the novel கொரொனாவைரஸ்.
 
 ## Centers to get tested:
 

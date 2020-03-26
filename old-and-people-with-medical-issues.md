@@ -1,5 +1,5 @@
 ---
-description: >-
+விளக்கம்: >-
   COVID-19 proves fatal mostly in old and people with underlying medical issues
   (both present and past). This guide outlines extra precautions to be taken.
 ---

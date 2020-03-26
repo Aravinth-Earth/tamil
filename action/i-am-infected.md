@@ -1,6 +1,6 @@
 ---
-description: >-
-  If you are sick with COVID-19 or suspect you are infected with the virus that
+விளக்கம்: >-
+  If you are sick with COVID-19 or suspect you are infected with the வைரஸ் that
   causes COVID-19, follow the steps below to help prevent the disease from
   spreading to people in your home and community.
 ---
@@ -16,7 +16,7 @@ description: >-
 ### Separate yourself from other people and animals in your home
 
 * **Stay away from others:** As much as possible, you should stay in a specific room and away from other people in your home. Also, you should use a separate bathroom, if available.
-* **Limit contact with pets & animals:** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.
+* **Limit contact with pets & animals:** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the வைரஸ்.
 * When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask.
 
 ### Call ahead before visiting your doctor

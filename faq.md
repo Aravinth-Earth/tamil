@@ -1,16 +1,16 @@
 ---
-description: Frequently Asked Questions about COVID-19
+விளக்கம்: Frequently Asked Questions about COVID-19
 ---
 
 # அடிக்கடி கேட்க்கப்பட்ட கேள்விகள்
 
-## What is a Corona Virus?
+## What is a கொரொனா வைரஸ்?
 
-Coronaviruses are a large family of viruses which may cause illness in animals or humans. In humans, several coronaviruses are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome \(MERS\) and Severe Acute Respiratory Syndrome \(SARS\). The most recently discovered coronavirus causes coronavirus disease COVID-19.
+கொரொனாவைரஸ்es are a large family of வைரஸ்es which may cause illness in animals or humans. In humans, several கொரொனாவைரஸ்es are known to cause respiratory infections ranging from the common cold to more severe diseases such as Middle East Respiratory Syndrome \(MERS\) and Severe Acute Respiratory Syndrome \(SARS\). The most recently discovered கொரொனாவைரஸ் causes கொரொனாவைரஸ் disease COVID-19.
 
 ## What is COVID-19?
 
-COVID-19 is the infectious disease caused by the most recently discovered coronavirus. This new virus and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
+COVID-19 is the infectious disease caused by the most recently discovered கொரொனாவைரஸ். This new வைரஸ் and disease were unknown before the outbreak began in Wuhan, China, in December 2019.
 
 ## What are the symptoms of COVID-19 ?
 
@@ -18,7 +18,7 @@ The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some p
 
 ## How does COVID-19 spread ?
 
-People can catch COVID-19 from others who have the virus. The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter \(3 feet\) away from a person who is sick.
+People can catch COVID-19 from others who have the வைரஸ். The disease can spread from person to person through small droplets from the nose or mouth which are spread when a person with COVID-19 coughs or exhales. These droplets land on objects and surfaces around the person. Other people then catch COVID-19 by touching these objects or surfaces, then touching their eyes, nose or mouth. People can also catch COVID-19 if they breathe in droplets from a person with COVID-19 who coughs out or exhales droplets. This is why it is important to stay more than 1 meter \(3 feet\) away from a person who is sick.
 
 > WHO is assessing ongoing research on the ways COVID-19 is spread and will continue to share updated findings.
 
@@ -55,7 +55,7 @@ Only wear a mask if you are ill with COVID-19 symptoms \(especially coughing\) o
 
 WHO advises rational use of medical masks to avoid unnecessary wastage of precious resources and mis-use of masks \(see Advice on the use of masks\).
 
-The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter \(3 feet\) from people who are coughing or sneezing. See basic protective measures against the new coronavirus for more information.
+The most effective ways to protect yourself and others against COVID-19 are to frequently clean your hands, cover your cough with the bend of elbow or tissue and maintain a distance of at least 1 meter \(3 feet\) from people who are coughing or sneezing. See basic protective measures against the new கொரொனாவைரஸ் for more information.
 
 ## Is there anything I should not do ?
 
