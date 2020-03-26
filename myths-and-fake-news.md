@@ -32,5 +32,5 @@ Even though the வைரஸ் is not airborne there is still considerable risk
 
 {% page-ref page="precautions.md" %}
 
-Source : [https://www.who.int/news-room/q-a-detail/q-a-கொரொனாவைரஸ்es\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
+Source : [https://www.who.int/news-room/q-a-detail/q-a-coronaviruseses\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
 

@@ -36,5 +36,5 @@ Here are fews tools for remote communications listed below:
 
 ## SOURCE
 
-[corona](https://github.com/AllenAJ/corona).
+[Corona](https://github.com/AllenAJ/Corona).
 
