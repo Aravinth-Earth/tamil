@@ -5,6 +5,6 @@
 # COVID-19 வைரஸ் Strain
 
 {% hint style="info" %}
-Work in Progress, refer to [https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers](https://www.ecdc.europa.eu/en/novel-coronaviruscoronavirus-china/questions-answers)
+Work in Progress, refer to [https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers](https://www.ecdc.europa.eu/en/novel-coronavirus-china/questions-answers)
 {% endhint %}
 

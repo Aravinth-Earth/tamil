@@ -20,7 +20,7 @@ Work in Progress, in the meantime refer : [https://www.who.int/emergencies/disea
 There \_\*\*\_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a கொரொனா வைரஸ் Infection.
 {% endhint %}
 
-Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-கொரொனாவைரஸ்](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
+Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
 
 ## Does COVID-19 spread thorough Air ?
 
@@ -32,5 +32,5 @@ Even though the வைரஸ் is not airborne there is still considerable risk
 
 {% page-ref page="precautions.md" %}
 
-Source : [https://www.who.int/news-room/q-a-detail/q-a-கொரொனாவைரஸ்es\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
+Source : [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
 
