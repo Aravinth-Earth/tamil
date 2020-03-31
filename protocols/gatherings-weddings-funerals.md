@@ -1,5 +1,5 @@
 ---
-description: >-
+விளக்கம்: >-
   How to handle community events such as Weddings, Funerals and Gatherings
   amidst COVID-19
 ---

@@ -1,5 +1,5 @@
 ---
-description: How can you reduce the risk to team productivity in the midst of an outbreak
+விளக்கம்: How can you reduce the risk to team productivity in the midst of an outbreak
 ---
 
 # Reducing the risk to your team
@@ -18,7 +18,7 @@ There are a number of actions employers can take to minimize the risk of spreadi
 
 #### Contingency
 
-* Assess how the business could be disrupted by coronavirus;
+* Assess how the business could be disrupted by கொரொனாவைரஸ்;
 * Evaluate existing contracts with suppliers, customers, and other parties and consider force majeure provisions;
 * Consider temporary closure of office, work from home policies and/or possible leave for employees; and
 * Institute contingency travel plans.

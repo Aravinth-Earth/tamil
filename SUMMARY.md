@@ -17,26 +17,26 @@
 
 ## தொடர்புக்கு
 
-* [COVID-19 பரிசோதனை மையங்கள்](undefined/centers-to-test-covid.md)
-* [கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்](undefined/control-rooms-kerala.md)
-* [உலகளாவிய நிறுவனங்கள்](undefined/international-organizations.md)
-* [National Level நிறுவனங்கள்](undefined/national-level-organisations.md)
-* [மாநில மற்றும் மாவட்ட அளவிலான நிறுவனங்கள்](undefined/state-and-district-level-organizations.md)
+* [COVID-19 பரிசோதனை மையங்கள்](contact/centers-to-test-covid.md)
+* [கேரளாவில் உள்ள கட்டுப்பாட்டு அறைகள்](contact/control-rooms-kerala.md)
+* [உலகளாவிய நிறுவனங்கள்](contact/international-organizations.md)
+* [National Level நிறுவனங்கள்](contact/national-level-organisations.md)
+* [மாநில மற்றும் மாவட்ட அளவிலான நிறுவனங்கள்](contact/state-and-district-level-organizations.md)
 
 ## Protocols To Follow At <a id="protocols"></a>
 
 * [விமான நிலையம்](protocols/airport.md)
 * [Gatherings, திருமணங்கள், Funerals](protocols/gatherings-weddings-funerals.md)
 
-## Know COVID-19 <a id="know-covid-19-1"></a>
+## COVID-19 -ஐ பற்றி தெரிந்துகொள்ள  <a id="know-covid-19-1"></a>
 
-* [COVID-19 Virus Strain](know-covid-19-1/covid-19-virus-strain.md)
+* [COVID-19 வைரஸ் Strain](know-covid-19-1/covid-19-virus-strain.md)
 
 ## Resources
 
 * [Official Resources](resources/official-resources.md)
-* [Statewise list of confirmed cases.](https://www.mohfw.gov.in/)
-* [Effective tool to work remotely during Corona](resources/effective-tool-to-work-remotely-during-corona.md)
-* [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
+* [மாநிலங்கள் வாரியாகா பாதிக்கப்பட்டவர்களின் எண்ணிக்கை](https://www.mohfw.gov.in/)
+* [Effective tool to work remotely during கொரொனா](resources/effective-tool-to-work-remotely-during-corona.md)
+* [Global Map of கொரொனா Outbreak](https://coronavirus.jhu.edu/map.html)
 * [Sources](resources/sources.md)
 

@@ -1,14 +1,12 @@
 ---
-description: >-
-  Page contains details of National Level Organisations currently handling COVID
-  Outbreak
+விளக்கம்: >-
+  இந்த பக்கம்COVID-இன் பரவலை கண்காணிக்கும் நாடளவிலான நிறுவனங்களின் விவரங்களை கொண்டுள்ளது
 ---
 
-# National Level நிறுவனங்கள்
+# நாடளவிலான நிறுவனங்கள்
 
-## Ministry of Health and Family Welfare
+## சுகாதாரம் மற்றும் குடும்பநலத்துறை 
 
 {% embed url="https://www.mohfw.gov.in/" caption="" %}
 
-Corona Virus Helpline: **+91-11-23978046**
-
+கொரொனா வைரஸ் சமந்தமான உதவிக்கு: **+91-11-23978046**

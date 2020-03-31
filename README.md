@@ -1,5 +1,5 @@
 ---
-description: >-
+விளக்கம்: >-
   கொரோனா வைரஸ் நோய் (COVID-19)  சமூக கூட்டத்தின் வாயிலாக பரவுவதில் இருந்து
   பாதுகாத்து கொள்ள உருவாக்கப்பட்ட வழிகாட்டி.
 ---
@@ -8,7 +8,7 @@ description: >-
 
 ![](.gitbook/assets/coronasafe-logo.svg)
 
-கொரோனா வைரஸ்கள் விலங்குகள் மற்றும் மனிதர்கள் இரண்டிலும் சுவாச நோய்த்தொற்றுகளை ஏற்படுத்தும் வைரஸ்களின் குடும்பத்தைக் சேர்ந்தவை. தற்போது மனிதர்களைப் பாதிக்கும் ஏழு கொரோனா வைரஸ்கள் உள்ளன, அவற்றில் நான்கு பொதுவாக உலகம் முழுவதும் காணப்படுகின்றன மற்றும் அறிகுறிகள் போன்ற லேசான குளிரை ஏற்படுத்துகின்றன. மீதமுள்ள மூன்று [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [Coronavirus Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html) போன்ற கடுமையான நோய்களை ஏற்படுத்தும் என்று அறியப்படுகிறது.
+கொரோனா வைரஸ்கள் விலங்குகள் மற்றும் மனிதர்கள் இரண்டிலும் சுவாச நோய்த்தொற்றுகளை ஏற்படுத்தும் வைரஸ்களின் குடும்பத்தைக் சேர்ந்தவை. தற்போது மனிதர்களைப் பாதிக்கும் ஏழு கொரோனா வைரஸ்கள் உள்ளன, அவற்றில் நான்கு பொதுவாக உலகம் முழுவதும் காணப்படுகின்றன மற்றும் அறிகுறிகள் போன்ற லேசான குளிரை ஏற்படுத்துகின்றன. மீதமுள்ள மூன்று [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [கொரொனாவைரஸ் Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html) போன்ற கடுமையான நோய்களை ஏற்படுத்தும் என்று அறியப்படுகிறது.
 
 [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) இதுவரை மனிதர்களில் கண்டறியப்படாத ஒரு புதிய வகை கொரோனா வைரஸ். இது ஜூனோடிக் தன்மையுடையது, அதாவது விலங்குகளிடமிருந்து மனிதர்களுக்கும், மனிதர்களிடமிருந்து பிற மனிதர்களுக்கும் பரவக்கூடியது. இது முதன்முதலாக சீனாவில் உள்ள வூகன் நகரத்தில் 31 டிசம்பர் 2019 அன்று [கண்டறியப்பட்டது](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/). காய்ச்சல், சோர்வு மற்றும் வறட்டு இருமல் ஆகியன COVID-19 இன் பொதுவான அறிகுறிகளாகும். பாதிக்கப்பட்டவர்களில் சிலருக்கு உடல்வலி, மூக்கடைப்பு, மூக்கு ஒழுகுதல், தொண்டை வலி அல்லது வயிற்றுப்போக்கு போன்ற அறிகுறிகளும் காணப்படலாம்.
 

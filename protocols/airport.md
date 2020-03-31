@@ -1,5 +1,5 @@
 ---
-description: These protocols are to be followed when travelling through Airports
+விளக்கம்: These protocols are to be followed when travelling through Airports
 ---
 
 # விமான நிலையம்

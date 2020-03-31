@@ -1,5 +1,5 @@
 ---
-description: How to contribute to make this guide better.
+விளக்கம்: How to contribute to make this guide better.
 ---
 
 # உதவு
@@ -19,7 +19,7 @@ You can view it by visiting [https://github.com/coronasafe/coronasafe.in](https:
 
 ### 3. Find the file you want to Update
 
-Each file in the repository is an article in corona safe. You can find the file you are looking for by searching it. Example: If i want to update FAQ, I can search FAQ on the top left bar
+Each file in the repository is an article in கொரொனா safe. You can find the file you are looking for by searching it. Example: If i want to update FAQ, I can search FAQ on the top left bar
 
 ![](https://github.com/coronasafe/tamil/tree/ee7c785497a2e2898384a9b42ea9e0261bfdbfaf/.gitbook/assets/git-2.png)
 
